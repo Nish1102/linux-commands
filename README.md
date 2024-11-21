@@ -860,10 +860,3 @@ sudo apt install linux-image-x.x.x
 
 
 
-
-- This will create a `zip` file of the `code` directory.
-
-
-
----
-
